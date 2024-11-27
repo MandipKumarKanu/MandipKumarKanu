@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mandip Kumar Kanu from Nepal, I am having BCA under TU.<br><br>- 🔭 I’m working as intern in Tech Nexaverse.<br>- 📚 I'm currently learning React Js<br>- ⚡ In my free time I pratice Html, CSS, JS, and React JS
+I'm Mandip Kumar Kanu from Nepal, I am having BCA under TU.<br><br>- 🔭 I’m working as intern in LennoByte Solutions.<br>- 📚 I'm currently learning React Js<br>- ⚡ In my free time I pratice Html, CSS, JS, and React JS
 
 
 ## 🌐 Socials:
@@ -13,4 +13,3 @@ I'm Mandip Kumar Kanu from Nepal, I am having BCA under TU.<br><br>- 🔭 I’m 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MandipKumarKanu&icon=0&color=3)](https://visitcount.itsvg.in)
