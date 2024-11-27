@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mandip Kumar Kanu from Nepal, I am having BCA under TU.<br><br>- 🔭 I’m working as intern in LennoByte Solutions.<br>- 📚 I'm currently learning React Js<br>- ⚡ In my free time I pratice Html, CSS, JS, and React JS
+I'm Mandip Kumar Kanu from Nepal, I am having BCA under TU.<br><br>- 🔭 I’m working as intern in LennoByte Solutions.<br>- 📚 I'm currently learning React Js<br>- ⚡ In my free time I pratice React Js and React Native
 
 
 ## 🌐 Socials:
