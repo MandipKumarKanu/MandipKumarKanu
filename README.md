@@ -1,12 +1,12 @@
 # 👨🏻‍💻 About Me:
 - 🙋‍♂️ All about me is at my [Website](https://mandipkk.com.np)
-- 🔭 I’m currently working on ```Something Interesting```
-- 🌱 I’m currently learning ```MERN Stack```
-- 👯 I’m looking to collaborate on ```Dev Projects```
-- 🤔 I’m looking for help with ```Competitive Programming```
-- 💬 Ask me about anything, **except Maths** 😅
-- 👨‍💻 **Life Hack:** Learn new tech 🔥 and share what you have learned 🎉
-- ⚡ **Fun fact:** I waste most of my time playing games
+- 🔭 Currently building cool things (and debugging them).
+- 🌱  Learning ```MERN``` Stack—praying my code works.
+- 👯 Open to collabs, just don’t ask me to center a div.
+- 🤔 Trying to survive ```Competitive``` Programming.
+- 💬 Ask me anything… **except Math**. Seriously. 
+- 👨‍💻 **Life Hack:** Learn, build, break, repeat. 
+- ⚡ **Fun fact:**“Just one more game” is my biggest lie.
 
 # 💻 Tech Stack:
 <p align="center">
