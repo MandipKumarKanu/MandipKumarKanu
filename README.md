@@ -6,7 +6,7 @@
 - 🤔 Trying to survive ```Competitive``` Programming.
 - 💬 Ask me anything… **except Math**. Seriously. 
 - 👨‍💻 **Life Hack:** Learn, build, break, repeat. 
-- ⚡ **Fun fact:**“Just one more game” is my biggest lie.
+- ⚡ **Fun fact:** ```Just one more game``` is my biggest lie.
 
 # 💻 Tech Stack:
 <p align="center">
