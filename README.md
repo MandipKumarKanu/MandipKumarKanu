@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-- 🙋‍♂️ All about me is at my [Website](https://mandipkk.com.np)
+- 🙋‍♂️ All about me is at my [Website](https://mandipkk.com.np/)
 - 🔭 Currently building cool things (and debugging them).
 - 🌱  Learning ```MERN``` Stack—praying my code works.
 - 👯 Open to collabs, just don’t ask me to center a div.
