@@ -26,6 +26,6 @@
 </div>
 
 ## 🎧 Listening:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317z7wh7tyi25xcodq6utwxamwwe&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uc7vfkiml5cw5e77tvzeirun2i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uc7vfkiml5cw5e77tvzeirun2i&redirect=true)
 
 ---
